@@ -9,8 +9,8 @@ This repository will be updated once in a while to include daily data.
 
 Usage
 -----
-
 - `getrates.py`: commandline tool to retrieve the data. Make sure to install the requirements (probably in a venv). See `getrates.py --help`.
+- `cron.sh`: If your venv is called `venv` and the requirements are installed, this will run `getrates.py` and commit the updated `rates.csv`.
 - `rates.csv`: Data that falls out of the script when it is run once a day (from 2016-12-20).
   Example thing to do with it:
   
