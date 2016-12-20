@@ -3,7 +3,7 @@
 
 Run with --help for usage.
 
-Find the latest version at https://gist.github.com/AnotherKamila/ef5721d911c9e898b05ef144f38a6d93
+Find the latest version at https://github.com/AnotherKamila/currency-exchange-rates/
 """
 
 import datetime
