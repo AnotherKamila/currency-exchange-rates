@@ -1,0 +1,5 @@
+click==6.6
+parse==1.6.6
+requests==2.12.4
+tablib==0.11.3
+xmltodict==0.10.2
