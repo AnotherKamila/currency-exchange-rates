@@ -7,6 +7,8 @@ Uses the Yahoo Finance API (which has a lot of currencies) to retrieve current e
 
 This repository will be updated once in a while to include daily data.
 
+This should not break when the world changes and currencies appear or disappear -- the script will just retrieve whatever is available and correctly merge the new data with the old CSV. (Therefore the CSV file *cannot* be append-only. At least it is written atomically.)
+
 Usage
 -----
 
