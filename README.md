@@ -10,7 +10,7 @@ This repository will be updated once in a while to include daily data.
 Usage
 -----
 
-- `rates.csv`: Data that falls out of the script when it is run once a day (from 2016-12-20).
+- `rates.csv`: Data that falls out of the script when it is run once a day (from 2017-01-10).
   Example thing to do with it:
   
   ```python
@@ -30,4 +30,4 @@ License
 
 I believe that the currency exchange rates are public domain, correct me if I am wrong.
 
-I [unlicense](https://unlicense.org/) everything in this repository.
+I [unlicense](https://unlicense.org/) everything in this repository. But it would be nice if you linked to this repo when you use it.
